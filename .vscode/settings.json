@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unityday1.sln"
+    "dotnet.defaultSolution": "BelajarUnity.sln"
 }
