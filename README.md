@@ -1,12 +1,13 @@
 # BelajarUnity
 
-DAY 2 - Belajar Membuat 3D Object jadi Asset baru, Setting Perspective Camera, Directional Light dan Playmode tint
+DAY 3 - Belajar Audio dan Programming dengan Unity Essential
 
-/Di hari kedua ini saya belajar hal baru, yaitu membuat Asset dengan 3D object yang dibangun sendiri, berupa Block Tower yang saya susun seperti bentuk pin pada permainan bowling.
+/Di hari ketiga ini saya belajar hal baru, yaitu menambahkan object yang memiliki suara saat kita memasuki play mode. Dan juga kita dapat menambahkan audio baru yang bisa kita dapatkan dari assetstore dari unitynya.
 
-/Sebelumnya aku kesusahan untuk menyusun rapi blok-blok tersebut menjadi block tower, dan kemudian dari unity learn memberikan tips dengan cara tekan v pada keyboard saat drag blok-blok tersebut, maka blok tersebut akan otomatis tersusun rapi keatas. Walaupun awalnya saya juga lumayan butuh effort untuk melakukan tips tersebut.
+/Saya juga belajar menambahkan Object Character yang dapat saya gerakkan dengan keyboard dengan memasukkan script C# yang telah diberikan oleh unity learn. Saya juga menambahkan obstacles berupa collectible_dirt dan juga kursi makan sebagai penghalangnya. Collectibles tersebut saat ditabrak dapat mengeluarkan efek ledakan kecil, seakan-akan object tersebut telah kita ambil atau collect seperti coin pada game subway surface 
 
-/Saya juga belajar tips untuk setting perspektif kamera play mode, yaitu dengan cara ctrl + shift + f pada keyboard pada scene yang kita inginkan maka perspektif kamera pada play mode tersebut otomatis terganti sesuai scene yang kita inginkan.
+/Saya juga belajar membuat pintu kelihatan terbuka otomatis saat Object Character hendak keluar melewati pintu tersebut
 
-/Dan juga saya belajar setting pencahayaan matahari, pencahayaan tersebut kita gunakan dan setting arahnya untuk bayangan dari bangunan yang kita buat
+/Hari ini saya juga belajar membuat rotasi hari dari siang ke malam atau dari terang ke gelap menggunakan script DayNightCycle, yang dapat diatur kecepatan perputarannya.
 
+/Kesulitan saya pada hari ini adalah membuat pintu otomatis tersebut, karena saya secara tidak sengaja menduplikat pintunya, sehingga pintu aslinya saya hapus dan pintu yang duplikat tersebut tidak berada pada parent walldoor aslinya, sehingga saat play mode pintu tersebut selalu terjatuh dan terjun ke bawah scene unity. hehe
