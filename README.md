@@ -1,13 +1,7 @@
 # BelajarUnity
 
-DAY 3 - Belajar Audio dan Programming dengan Unity Essential
+DAY 4 - Belajar Membuat ruangan 2D dan tampilan UI Unity Essential
 
-/Di hari ketiga ini saya belajar hal baru, yaitu menambahkan object yang memiliki suara saat kita memasuki play mode. Dan juga kita dapat menambahkan audio baru yang bisa kita dapatkan dari assetstore dari unitynya.
+/Di hari keempat ini saya belajar membuat 2D Object dengan objek-objek 2D yang sudah disusun layoutnya, dan ada juga character player berupa mainan yang dapat kita pilih bentuknya dan bisa kita gerakkan seperti 3D Object sebelumnya.
 
-/Saya juga belajar menambahkan Object Character yang dapat saya gerakkan dengan keyboard dengan memasukkan script C# yang telah diberikan oleh unity learn. Saya juga menambahkan obstacles berupa collectible_dirt dan juga kursi makan sebagai penghalangnya. Collectibles tersebut saat ditabrak dapat mengeluarkan efek ledakan kecil, seakan-akan object tersebut telah kita ambil atau collect seperti coin pada game subway surface 
-
-/Saya juga belajar membuat pintu kelihatan terbuka otomatis saat Object Character hendak keluar melewati pintu tersebut
-
-/Hari ini saya juga belajar membuat rotasi hari dari siang ke malam atau dari terang ke gelap menggunakan script DayNightCycle, yang dapat diatur kecepatan perputarannya.
-
-/Kesulitan saya pada hari ini adalah membuat pintu otomatis tersebut, karena saya secara tidak sengaja menduplikat pintunya, sehingga pintu aslinya saya hapus dan pintu yang duplikat tersebut tidak berada pada parent walldoor aslinya, sehingga saat play mode pintu tersebut selalu terjatuh dan terjun ke bawah scene unity. hehe
+/Hari keempat ini saya juga belajar membuat tampilan UI sederhana pada bagian tampilan 2D Object tadi dan juga UI untuk tampilan awal mulai game scenes nya.
