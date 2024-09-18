@@ -1,7 +1,9 @@
 # BelajarUnity
 
-DAY 4 - Belajar Membuat ruangan 2D dan tampilan UI Unity Essential
+DAY 5 - Belajar Membuat Gabungan Antara Beberapa Scene ke dalam Bonus Scene dan UI nya
 
-/Di hari keempat ini saya belajar membuat 2D Object dengan objek-objek 2D yang sudah disusun layoutnya, dan ada juga character player berupa mainan yang dapat kita pilih bentuknya dan bisa kita gerakkan seperti 3D Object sebelumnya.
+/Di hari kelima ini saya belajar menggabungkan beberapa scene yang sudah dibuat di hari sebelumnya. Scene-scene tersebut disatukan menjadi seperti 1 bagian bangunan.
 
-/Hari keempat ini saya juga belajar membuat tampilan UI sederhana pada bagian tampilan 2D Object tadi dan juga UI untuk tampilan awal mulai game scenes nya.
+/Belajar membuat scene baru dengan kreasi asset baru
+
+/Belajar merecord scene yang telah dibuat menggunakan recorder dari unity
